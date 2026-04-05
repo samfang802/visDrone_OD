@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and large weights
+data/
+datasets/
+*.pt
+*.onnx
+*.zip
+
+# Runs and logs
+visdrone_detect/
+runs/
+*.log
+
+# CSV results
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
