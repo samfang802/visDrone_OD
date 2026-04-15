@@ -1,6 +1,6 @@
-# VisDrone-OD: High-Performance Drone Object Detection
+# VisDrone-OD: High-Resolution Drone Object Detection
 
-This repository implements a modular object detection system for drone-captured imagery using the **YOLOv11s** architecture. Designed specifically for the [VisDrone Dataset](https://github.com/VisDrone/VisDrone-Dataset), it provides a complete pipeline from data extraction to batch inference.
+This repository implements a modular object detection system for drone-captured imagery using the **YOLOv11s** architecture. Designed specifically for the [VisDrone Dataset](https://www.kaggle.com/datasets/abhimanyubhowmik1/visdrone), it provides a complete pipeline from data extraction to batch inference.
 
 ![VisDrone Detection Preview](assets/output.png)
 
